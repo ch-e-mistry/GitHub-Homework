@@ -14,7 +14,7 @@ A feladat leírásnak megfelelően megjeleníti H1-es címsorként a kért szöv
 
 ## docker_epit_push.yml
 
-Az egész file a workflow nevét definiálja a következő kódrészlettel.
+Az egész file azzal kezdődik, hogy a workflow nevét definiálja a következő kódrészlettel.
 
 ```
 name: Docker_image_epites_es_push
